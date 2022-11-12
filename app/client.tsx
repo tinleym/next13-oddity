@@ -1,7 +1,5 @@
 "use client";
 
-// import { cookies } from "next/headers";
-
 const IS_SERVER = typeof document === typeof undefined;
 
 function ExampleClient() {
